@@ -1,6 +1,6 @@
-# Crawler
+# Web Crawler
 
-Descrição Breve: Este projeto implementa um web crawler sofisticado e ético, capaz de extrair conteúdo de websites, processar o texto em chunks gerenciáveis e salvar os resultados em formato JSONL. O crawler inclui recursos avançados como rotação de User-Agents, tratamento de interrupções, e processamento de texto usando NLTK.
+Este projeto implementa um web crawler sofisticado e ético, capaz de extrair conteúdo de websites, processar o texto em chunks gerenciáveis e salvar os resultados em formato JSONL. O crawler inclui recursos avançados como rotação de User-Agents, tratamento de interrupções, e processamento de texto usando NLTK.
 
 Linguagem: Python
 
